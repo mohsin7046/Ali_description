@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json": "^11.0.0"
+  },
+  "name": "ali_description",
+  "description": "About MySelf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx tailwindcss -i ./style.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
